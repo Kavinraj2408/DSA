@@ -31,9 +31,9 @@ public class Demo {
 		
 		System.out.println(nums);
 		
-//		for(int b : nums) {
-//			System.out.println(b);
-//		}
+		for(int b : nums) {
+			System.out.println(b);
+		}
 	}
 
 }
