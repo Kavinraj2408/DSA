@@ -175,12 +175,12 @@ public class ComparatorClass {
 		//Stream
 		
 		
-//		Collections.sort(stud);
-//		
-//		stud.forEach(s -> System.out.println(s));
-//		for(Student s: stud) {
-//			System.out.println(s);
-//		}
+		Collections.sort(stud);
+		
+		stud.forEach(s -> System.out.println(s));
+		for(Student s: stud) {
+			System.out.println(s);
+		}
 
 	}
 
